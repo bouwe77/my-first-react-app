@@ -1,5 +1,5 @@
 import React from "react";
 
-const Header = () => <div className="content">content...</div>;
+const Content = () => <div className="content">Hello World!</div>;
 
-export default Header;
+export default Content;

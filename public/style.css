@@ -1,11 +1,15 @@
 body {
-  background-color: gray;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
 .header {
-  background-color: lightpink;
+  background-color: maroon;
+  font-size: xx-large;
+  color: white;
+  padding: 10px;
 }
 
 .content {
-  background-color: lightblue;
+  padding: 10px;
 }
