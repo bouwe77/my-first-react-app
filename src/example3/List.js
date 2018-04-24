@@ -1,22 +1,18 @@
 import React from "react";
 import Item from "./Item";
 
-class List extends React.Component {
-  render() {
-    return (
-      <ul>
-        <li>
-          <Item item="Grasmaaien" />
-        </li>
-        <li>
-          <Item item="Stofzuigen" />
-        </li>
-        <li>
-          <Item item="Was opvouwen" />
-        </li>
-      </ul>
-    );
-  }
-}
+const List = () => (
+  <ul>
+    <li>
+      <Item description="Grasmaaien" />
+    </li>
+    <li>
+      <Item description="Stofzuigen" />
+    </li>
+    <li>
+      <Item description="Was opvouwen" />
+    </li>
+  </ul>
+);
 
 export default List;
