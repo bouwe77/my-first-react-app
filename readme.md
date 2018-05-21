@@ -1,1 +1,1 @@
-hoi :)
+Dit is de voorbeeld-app die ik heb gebruikt bij mijn React.js presentatie op 23 mei 2018.
