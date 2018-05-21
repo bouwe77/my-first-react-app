@@ -12,16 +12,3 @@ const App = () => (
 );
 
 render(<App />, document.getElementById("root"));
-
-/* 
-Equivalent van bovenstaande:
-
-const App = function() {
-  return (
-    <div>
-      <Header />
-      <Content />
-    </div>
-  );
-}
-*/

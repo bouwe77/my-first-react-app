@@ -1,7 +1,7 @@
 import React from "react";
 import Item from "./Item";
 
-class List extends React.Component {
+class Items extends React.Component {
   state = {
     items: [
       { id: 1, description: "Grasmaaien" },
@@ -17,4 +17,4 @@ class List extends React.Component {
   }
 }
 
-export default List;
+export default Items;
