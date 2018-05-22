@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "main": "src/example4/index.js",
+  "main": "src/example1/index.js",
   "dependencies": {
     "react": "16.2.0",
     "react-dom": "16.2.0",
